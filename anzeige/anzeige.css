@@ -1,0 +1,27 @@
+
+
+
+#h1 {
+  position: absolute;
+  color: rgb(63, 146, 214);
+  text-shadow: 2px 2px 4px #333;
+  animation:glow 240s infinite;
+  font-size:70px;
+  padding-top: 0px;
+}
+.beschreibung_txt{
+
+margin-top: 20%;
+margin-left: 10%;
+
+
+}
+
+.evento{
+
+background-color: rgb(31, 40, 39);
+border: #6ddba6;
+border-radius: 30px;
+border-width: 5px;
+
+}
